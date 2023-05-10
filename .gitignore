@@ -3,10 +3,11 @@
 /data/
 
 /venv/
-/idea/
+/.idea/
 *.pdf
 *.gv
 
 /spark-3.4.0-bin-hadoop3/
 
 *.tgz
+
